@@ -29,3 +29,6 @@ const total2 = function(){
 const t2 = total2();
 
 
+console.log(`first`)
+console.log(`first`)
+
